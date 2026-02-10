@@ -1,5 +1,6 @@
 package dvprg1;
 import org.testng.Assert;
+import org.testng.annotation.Test;
 
 public class ResultTest {
 	@Test
